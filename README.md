@@ -89,5 +89,3 @@ Sou movido por desafios, aprendizado contínuo e soluções que fazem diferença
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Andlzap&color=6366f1&style=flat-square&label=Visitantes" />
 </p>
-
-<p align="center"><i>"Sou movido por desafios, aprendizado contínuo e construção de soluções que realmente fazem diferença."</i></p>
