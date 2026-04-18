@@ -89,3 +89,11 @@ Sou movido por desafios, aprendizado contínuo e soluções que fazem diferença
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Andlzap&color=6366f1&style=flat-square&label=Visitantes" />
 </p>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Andlzap/Andlzap/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Andlzap/Andlzap/output/github-snake.svg">
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Andlzap/Andlzap/output/github-snake.svg">
+</picture>
