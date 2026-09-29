@@ -1,7 +1,7 @@
-<h1 align="center">Olá! Eu sou o André Zappa 👋</h1>
+<h1 align="center">Hi! I'm André Zappa 👋</h1>
 
 <p align="center">
-  <b>Desenvolvedor Full Stack · Pesquisador em Computação Forense · Engenheiro de Software</b>
+  <b>Full Stack Developer · Digital Forensics Researcher · Software Engineer</b>
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://portfolio-zappa.vercel.app/pt">
-    <img src="https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:andlzapparabello@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -18,13 +18,13 @@
 
 ---
 
-### 🧑‍💻 Sobre mim
+### 🧑‍💻 About me
 
-Sou Cientista da Computação formado pela **PUC Minas** e desenvolvedor full stack na **Unimed Poços de Caldas**, onde sou o único dev do setor de Soluções Tecnológicas — responsável por todo o ciclo de vida dos sistemas, do levantamento de requisitos ao deploy.
+I hold a B.Sc. in Computer Science from **PUC Minas** and work as a full stack developer at **Unimed Poços de Caldas**, where I'm the sole developer in the Technology Solutions department — responsible for the entire system lifecycle, from requirements gathering to deployment.
 
-Paralelamente, pesquiso **Computação Forense e Inteligência Cibernética** desde a graduação, com publicação na **RISTI**, trabalho aprovado no **ICITS 25** e TCC nota máxima sobre perícia computacional em áudio.
+Alongside that, I've been researching **Digital Forensics and Cyber Intelligence** since my undergraduate years, with a paper published in **RISTI**, a paper accepted at **ICITS 25**, and a top-graded thesis on forensic audio analysis.
 
-Sou movido por desafios, aprendizado contínuo e soluções que fazem diferença de verdade.
+I'm driven by challenges, continuous learning, and solutions that make a real difference.
 
 ---
 
@@ -52,14 +52,14 @@ Sou movido por desafios, aprendizado contínuo e soluções que fazem diferença
 ![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-**Banco de Dados & Infra**
+**Databases & Infrastructure**
 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
 
-**Outras**
+**Others**
 
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -67,14 +67,14 @@ Sou movido por desafios, aprendizado contínuo e soluções que fazem diferença
 
 ---
 
-### 🔬 Pesquisa & Publicações
+### 🔬 Research & Publications
 
-| 📄 | Descrição |
+| 📄 | Description |
 |---|---|
-| **RISTI** | Artigo publicado na Revista Ibérica de Sistemas e Tecnologias de Informação |
-| **ICITS 25** | Trabalho aprovado na International Conference on Information Technology & Systems |
-| **TCC** | Nota máxima — Técnicas de perícia computacional em áudio |
-| **CyberOne Lab** | Membro durante toda a graduação — OSINT, deep web, raspagem de dados, análise forense |
+| **RISTI** | Paper published in the Iberian Journal of Information Systems and Technologies (Revista Ibérica de Sistemas e Tecnologias de Informação) |
+| **ICITS 25** | Paper accepted at the International Conference on Information Technology & Systems |
+| **Thesis** | Top grade — Forensic audio analysis techniques |
+| **CyberOne Lab** | Member throughout my undergraduate studies — OSINT, deep web, web scraping, forensic analysis |
 
 ---
 
@@ -87,7 +87,7 @@ Sou movido por desafios, aprendizado contínuo e soluções que fazem diferença
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Andlzap&color=6366f1&style=flat-square&label=Visitantes" />
+  <img src="https://komarev.com/ghpvc/?username=Andlzap&color=6366f1&style=flat-square&label=Visitors" />
 </p>
 
 ---
